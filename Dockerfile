@@ -1,3 +1,3 @@
 FROM python:3 
-ADD . /FREASH_GIT
+ADD . /
 CMD ["python3","new.py"]
